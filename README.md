@@ -33,7 +33,7 @@ Prerequisites
 
 1. Clone the repository:
 ```
-git clone https://github.com/YourUsername/URList3r.py.git
+git clone https://github.com/DRAGOWN/URList3r.py.git
 cd URList3r.py
 ```
 
